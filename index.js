@@ -6,17 +6,17 @@ const clients =[
     {
         clientName: "~ Julio",
         msg: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, temporibus",
-        img: "pics/images2.png"
+        img: "Pics/images2.png"
     },
     {
         clientName: "~ Julio",
         msg: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, temporibus",
-        img: "pics/images3.png"
+        img: "Pics/images3.png"
     },
     {
         clientName: "~ Julio",
         msg: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, temporibus",
-        img: "pics/images4.jpeg"
+        img: "Pics/images4.jpeg"
     },
 ]
 
