@@ -74,7 +74,13 @@ nav{
 .header_image_container{
     position: relative;
     min-height: 530px;
-    background-image:linear-gradient(to right, rgba(44,56,85,.9), rgba(110,125,187,.1)), url("pics/LOC_MDV_shutterstock_1938868960WebOriginalCompressed.webp");
+    /* background-image:linear-gradient(to right, rgba(44,56,85,.9), rgba(110,125,187,.1)), url("Pics/LOC_MDV_shutterstock_1938868960WebOriginalCompressed.webp"); */
+    background-image: linear-gradient(
+    to right,
+    rgba(44,56,85,.9),
+    rgba(110,125,187,.1)
+),
+url("Pics/Grand\ Hotel\ Scarborough.webp");
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 2rem;
